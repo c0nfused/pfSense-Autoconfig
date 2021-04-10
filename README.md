@@ -55,7 +55,8 @@ OR
 
 ----------
 
-**Created By**
+**License**
 
+MIT License
 
-[@c0nfus3d1](https://twitter.com/c0nfus3d1) - [TheyConfuse.Me](http://theyconfuse.me) 
+[Copyright 2013 - 2015 Joshua Richard](https://github.com/c0nfus3d)
